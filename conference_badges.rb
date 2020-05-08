@@ -27,3 +27,4 @@ def printer(guests)
     puts room
     end
 end
+
