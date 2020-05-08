@@ -7,4 +7,4 @@ end
 name_array =  ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def batch_badge_creator(name_array)
-  
+  primary_colors.each do
