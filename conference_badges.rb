@@ -28,3 +28,4 @@ def printer(guests)
     end
 end
 
+printer(guests)
