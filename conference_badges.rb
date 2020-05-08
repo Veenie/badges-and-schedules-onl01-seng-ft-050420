@@ -13,7 +13,7 @@ def batch_badge_creator(array)
   end
 end
 
-
+array1 = [1,2,3,4,5,6,7]
 
 def assign_rooms(array1)
 	array1.each_with_index.map do |name, index| 
